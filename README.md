@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 🔭 业余时间喜欢分享一些工作中遇到的技术难题和解决方案，并写了一些技术博客，希望能传道、授业、解惑。
   + [Blog](https://www.jianshu.com/u/126498da7523)
   + [Blog Code](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
-- 📫 技术上有疑惑？理解上有问题？还请联系我 👉 `491273090@qq.com`，我非常乐意帮助他人！当然也欢迎大神们多多指点🙏🙏🙏
-- ♥️ 感谢Star 
+- 📫 技术上有疑惑？理解上有问题？实现上有新方案？还请联系我 👉 `491273090@qq.com`，我非常乐意帮助他人！当然也欢迎大神们多多指点🙏🙏🙏
+- ♥️ 开源不易，感谢Star 
