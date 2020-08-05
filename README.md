@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   + [oc_wechat](https://github.com/CoderMikeHe/WeChat)
   + [flutter_wechat](https://github.com/CoderMikeHe/flutter_wechat)
   + [vue-wechat](https://github.com/CoderMikeHe/vue-wechat)
-- 🔭 坚持业余时间分享一些工作中遇到的技术难题和实际解决方案，编写技术博客，希望能传道、授业、解惑。
+- 🔭 坚持业余时间分享一些工作中遇到的技术难题和实际解决方案，编写技术方案解决之道，希望能够传道、授业、解惑。
   + [Blog](https://www.jianshu.com/u/126498da7523)
   + [Blog Code](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
 - 📫 技术上有疑惑？理解上有问题？实现上有新方案？还请联系我 👉 `491273090@qq.com`，我非常乐意帮助！欢迎大神们多多指点🙏
