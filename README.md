@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   + [Blog](https://www.jianshu.com/u/126498da7523)
   + [Blog Code](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
 - 📫 技术上有疑惑？理解上有问题？实现上有新方案？还请联系我 👉 `491273090@qq.com`，我非常乐意帮助！欢迎大神们多多指点🙏
-- ♥️ 开源不易，感谢Star 
+- ♥️ 代码如人，见字如面，开源不易，感谢Star 
