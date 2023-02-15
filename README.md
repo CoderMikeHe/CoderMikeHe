@@ -29,5 +29,4 @@ Here are some ideas to get you started:
   + [Blog Code](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
 - 📫 技术上有疑惑？理解上有问题？实现上有新方案？还请联系我，我非常乐意帮助！欢迎大神们多多指点🙏
   + 邮箱：`491273090@qq.com` 
-  + 微信：`491273090`
 - ♥️ 代码如人，见字如面，开源不易，感谢Star 
